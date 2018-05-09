@@ -17,14 +17,14 @@ Bamazon Manager:
 
 # Customer Screenshots / Giphy
 ### Example 1 for Bamazom Customer
-![exbc.1](images/customer1.gif)
+![exbc1](images/customer1.gif)
 
 ### Example 2 for Bamazon Customer
-![exbc.2](images/customer2.gif)
+![exbc2](images/customer2.gif)
 
 
 # Manager  Screenshots / Giphy
 ### Example for Bamazon Manager
-![exbm.2](images/manager2.gif)
+![exbm2](images/manager2.gif)
 
 
